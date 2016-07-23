@@ -4,3 +4,5 @@ Cool
 *learn
 
 *play
+
+*sleep
